@@ -1,0 +1,2 @@
+Esta nota es una prueba para el curso de Git y Github.
+Voy a fusionar las ramas
